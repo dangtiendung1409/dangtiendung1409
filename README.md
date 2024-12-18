@@ -28,12 +28,12 @@
 
 **Frameworks:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel_logo.svg/600px-Laravel_logo.svg.png" alt="Laravel" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/.NET_Core_Logo.svg" alt=".NET" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elysia/elysia-original.svg" alt="Elysia.js" width="40" height="40" />
-](https://www.google.com/imgres?q=Elysia.js&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F574104779%2Fd5b9fbbd-e3ae-4578-ab92-977424402562&imgrefurl=https%3A%2F%2Fgithub.com%2Felysiajs%2Felysia&docid=rVHyaQj7kSrH6M&tbnid=JRM2aBVY7t_p_M&vet=12ahUKEwi_tfGNybCKAxXQqFYBHQDWObMQM3oECBQQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwi_tfGNybCKAxXQqFYBHQDWObMQM3oECBQQAA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Elysia.js_logo.png" alt="Elysia.js" width="40" height="40" />
+
 
 
 
