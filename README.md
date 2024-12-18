@@ -48,6 +48,7 @@
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangtiendung1409&theme=radical)
 
+![Đóng góp của tôi trên GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangtiendung1409&theme=radical)
 
 <!--
 **dangtiendung1409/dangtiendung1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
