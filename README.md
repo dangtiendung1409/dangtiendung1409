@@ -40,7 +40,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
 
-🔥  Highlighted Projects
+## 🔥  Highlighted Projects
 
 1. New Year Fireworks Simulation
 
