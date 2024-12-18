@@ -1,38 +1,29 @@
 ## Hi there 👋 My Name is Đặng Tiến Dũng 
-# Hi My name is Thành Nam Nguyễn aka Yuu 👋
+# I'm a Web Developer
 
-I'm a Web Developer from **Code Lyoko Team**.
-
-> **Code Lyoko** is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA.  
-> This is a movie that I have liked since I was young, so I named my team after this movie.
+> I started learning programming 2 years ago, and it's been a journey full of challenges and growth. From debugging my first errors to building projects I once thought impossible, I’ve discovered a true passion for creating and solving problems through code. Each step has taught me resilience, creativity, and the joy of continuous learning, and I’m excited to keep growing every day. 
 
 ---
 
-## 🌍 About Me
+## 👨‍💻 About Me ✨
 
-- **Location**: Viet Nam  
-- **Education**: Studied at **Open University (OU HCMC)**  
-- 🖥️ See my portfolio at [thanhnamnguyen.dev](https://thanhnamnguyen.dev)  
-- 📝 Blog at [blog.thanhnamnguyen.dev](https://blog.thanhnamnguyen.dev)  
-- ✉️ Contact me: [namnguyenthanh.work@gmail.com](mailto:namnguyenthanh.work@gmail.com)
+- 🌍 **Location**: Viet Nam 🇻🇳 
+- 🌐 Connect with me on Facebook: [Đặng Tiến Dũng]([https://www.facebook.com/yourusername](https://www.facebook.com/angtiendung.320735))  
+- 💬 Ask me about php , laravel and vuejs 
+- ⚡ Penguins propose to their mates with pebbles, but I’d propose with a perfect line of code
+- ✉️ Contact me: [dangtiendung.work@gmail.com](dangtiendung257@gmail.com)
 
 ---
 
 ## 🛠️ Skills
 
-**Languages & Tools:**
+**Languages:**
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+**Frameworks:**
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/net/net-original.svg" alt=".NET" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elysia/elysia-original.svg" alt="Elysia.js" width="40" height="40" />
 
----
 
-## 🌐 Socials
-
-Feel free to connect with me:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://thanhnamnguyen.dev)  
-[![Blog](https://img.shields.io/badge/Blog-blog.thanhnamnguyen.dev-green?style=for-the-badge)](https://blog.thanhnamnguyen.dev)  
-[![Email](https://img.shields.io/badge/Email-namnguyenthanh.work%40gmail.com-red?style=for-the-badge)](mailto:namnguyenthanh.work@gmail.com)
 
 
 <!--
