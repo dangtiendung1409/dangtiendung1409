@@ -2,7 +2,7 @@
 # I'm a Web Developer
 
 > I started learning programming 2 years ago, and it's been a journey full of challenges and growth. From debugging my first errors to building projects I once thought impossible, I’ve discovered a true passion for creating and solving problems through code. Each step has taught me resilience, creativity, and the joy of continuous learning, and I’m excited to keep growing every day. 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+- ![Profile Views](https://komarev.com/ghpvc/?username=dangtiendung1409&color=blue&style=flat-square)
 
 ---
 
