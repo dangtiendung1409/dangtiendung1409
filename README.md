@@ -40,6 +40,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
 
+🔥  Highlighted Projects
+
+1. New Year Fireworks Simulation
+
+Description: A visually impressive fireworks simulation built with HTML5 Css and JavaScript, to bring the most realistic experience, what are you waiting for? Come watch with your loved ones and lovers.
+
+Live Demo: [New Year Fireworks](https://dangtiendung1409.github.io/New-year-fireworks/)
+
+Repository: [New-year-fireworks](https://github.com/dangtiendung1409/New-year-fireworks)
+
 ## 🚀 GitHub Profile Summary
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangtiendung1409&theme=radical)
