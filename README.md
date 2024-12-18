@@ -40,11 +40,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
 
-## 📊 My GitHub Stats
+## 🚀 GitHub Profile Summary
 
-![Đặng Tiến Dũng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangtiendung1409&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangtiendung1409&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangtiendung1409&layout=compact&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dangtiendung1409&theme=radical)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dangtiendung1409&theme=radical)
+
 
 <!--
 **dangtiendung1409/dangtiendung1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
