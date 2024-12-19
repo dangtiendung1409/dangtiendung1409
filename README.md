@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me ✨
 
 - 🌍 **Location**: Viet Nam 🇻🇳 
-- 🌐 Connect with me on Facebook: [Đặng Tiến Dũng]([https://www.facebook.com/yourusername](https://www.facebook.com/angtiendung.320735))  
+- 🌐 Connect with me on Facebook: [Đặng Tiến Dũng](https://www.facebook.com/angtiendung.320735/)
 - 💬 Ask me about php , laravel and vuejs 
 - ⚡ Penguins propose to their mates with pebbles, but I’d propose with a perfect line of code
 - ✉️ Contact me: [dangtiendung.work@gmail.com](dangtiendung257@gmail.com)
